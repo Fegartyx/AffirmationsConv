@@ -18,7 +18,7 @@ class CardView extends StatelessWidget {
               child: Image.asset(
                 width: double.infinity,
                 'assets/$img',
-                fit: BoxFit.fill,
+                //fit: BoxFit.fill,
               ),
             ),
             SizedBox(
